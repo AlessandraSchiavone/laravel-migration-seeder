@@ -1,0 +1,26 @@
+header{
+    .nav-bar{
+        height:50px;
+        background-color: rgb(212, 229, 245);
+        .container{
+            font-size:30px;
+             padding:10px;
+            
+            i,span{
+                color:#0395BA;
+                text-shadow: 3px 3px 3px  #ED3349;   
+            } 
+        }
+        
+        
+    }
+
+
+    .jumbotron{
+        height:550px;
+        background-image: url('https://www.utravel.it/wp-content/uploads/2021/06/wide-nuovo-layout-sardegna.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
